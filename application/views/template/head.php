@@ -33,6 +33,8 @@
     <link rel="stylesheet" href="<?php echo base_url();?>assets/css/main.css">
     <!-- responsive css -->
     <link rel="stylesheet" href="<?php echo base_url();?>assets/css/responsive.css">
+    <!-- custom css -->
+    <link rel="stylesheet" href="<?php echo base_url();?>assets/css/custom.css">
     
     <!-- Template Javascript Files
     ================================================== -->
@@ -52,5 +54,7 @@
     <script src="<?php echo base_url();?>assets/js/jquery.fancybox.js"></script>
     <!-- template main js -->
     <script src="<?php echo base_url();?>assets/js/main.js"></script>
+    <!-- custom js -->
+    <script src="<?php echo base_url();?>assets/js/custom.js"></script>
 </head>
 <body>

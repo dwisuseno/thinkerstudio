@@ -7,19 +7,19 @@
                             <!-- Slider -->
                             <section class="cd-intro">
                                 <h1 class="wow fadeInUp animated cd-headline slide" data-wow-delay=".4s" >
-                                <span>HI, MY NAME IS JONATHON & I AM A</span><br>
+                                <span>HELLO, We Are "Thinker. Studio"</span><br>
                                 <span class="cd-words-wrapper">
                                     <b class="is-visible">DESIGNER</b>
                                     <b>DEVELOPER</b>
-                                    <b>FATHER</b>
+                                    <b>STARTUP</b>
                                 </span>
                                 </h1>
                                 </section> <!-- cd-intro -->
                                 <!-- /.slider -->
                                 <h2 class="wow fadeInUp animated" data-wow-delay=".6s" >
-                                    With 10 years experience, I've occupied many roles including digital design director,<br> web designer and developer. This site showcases some of my work.
+                                    Dengan developer yang berpengalaman. Kami menawarkan Desain Web, Desain Foto WPAP, Desain Mobile-Apps, dll. 
                                 </h2>
-                                <a class="btn-lines dark light wow fadeInUp animated smooth-scroll btn btn-default btn-green" data-wow-delay=".9s" href="#works" data-section="#works" >View Works</a>
+                                <a class="btn-lines dark light wow fadeInUp animated smooth-scroll btn btn-default btn-green" data-wow-delay=".9s" href="#works" data-section="#works" >Lihat Contoh Pekerjaan</a>
                                 
                             </div>
                         </div>
@@ -36,7 +36,7 @@
                         <div class="col-md-6 col-sm-6">
                             <div class="block wow fadeInLeft" data-wow-delay=".3s" data-wow-duration="500ms">
                                 <h2>
-                                ABOUT ME
+                                ABOUT US
                                 </h2>
                                 <p>
                                     Hello, I’m a UI/UX Designer & Front End Developer from Victoria, Australia. I hold a master degree of Web Design from the World University.And scrambled it to make a type specimen book. It has survived not only five centuries
@@ -49,7 +49,7 @@
                         </div>
                         <div class="col-md-6 col-sm-6">
                             <div class="block wow fadeInRight" data-wow-delay=".3s" data-wow-duration="500ms">
-                                <img src="images/about/about.jpg" alt="">
+                                <img src="<?php echo base_url()?>assets/images/about/about.jpg" alt="">
                             </div>
                         </div>
                     </div>
@@ -71,10 +71,10 @@
                         <div class="col-sm-4 col-xs-12">
                             <figure class="wow fadeInLeft animated portfolio-item" data-wow-duration="500ms" data-wow-delay="0ms">
                                 <div class="img-wrapper">
-                                    <img src="images/portfolio/item-1.jpg" class="img-responsive" alt="this is a title" >
+                                    <img src="<?php echo base_url()?>assets/images/portfolio/item-1.jpg" class="img-responsive" alt="this is a title" >
                                     <div class="overlay">
                                         <div class="buttons">
-                                            <a rel="gallery" class="fancybox" href="images/portfolio/item-1.jpg">Demo</a>
+                                            <a rel="gallery" class="fancybox" href="<?php echo base_url()?>assets/images/portfolio/item-1.jpg">Demo</a>
                                             <a target="_blank" href="single-portfolio.html">Details</a>
                                         </div>
                                     </div>
@@ -94,7 +94,7 @@
                         <div class="col-sm-4 col-xs-12">
                             <figure class="wow fadeInLeft animated" data-wow-duration="500ms" data-wow-delay="300ms">
                                 <div class="img-wrapper">
-                                    <img src="images/portfolio/item-2.jpg" class="img-responsive" alt="this is a title" >
+                                    <img src="<?php echo base_url()?>assets/images/portfolio/item-2.jpg" class="img-responsive" alt="this is a title" >
                                     <div class="overlay">
                                         <div class="buttons">
                                             <a rel="gallery" class="fancybox" href="images/portfolio/item-2.jpg">Demo</a>
@@ -117,10 +117,10 @@
                         <div class="col-sm-4 col-xs-12">
                             <figure class="wow fadeInLeft animated" data-wow-duration="500ms" data-wow-delay="300ms">
                                 <div class="img-wrapper">
-                                    <img src="images/portfolio/item-3.jpg" class="img-responsive" alt="" >
+                                    <img src="<?php echo base_url()?>assets/images/portfolio/item-3.jpg" class="img-responsive" alt="" >
                                     <div class="overlay">
                                         <div class="buttons">
-                                            <a rel="gallery" class="fancybox" href="images/portfolio/item-3.jpg">Demo</a>
+                                            <a rel="gallery" class="fancybox" href="<?php echo base_url()?>assets/images/portfolio/item-3.jpg">Demo</a>
                                             <a target="_blank" href="single-portfolio.html">Details</a>
                                         </div>
                                     </div>
@@ -140,10 +140,10 @@
                         <div class="col-sm-4 col-xs-12">
                             <figure class="wow fadeInLeft animated" data-wow-duration="500ms" data-wow-delay="600ms">
                                 <div class="img-wrapper">
-                                    <img src="images/portfolio/item-4.jpg" class="img-responsive" alt="" >
+                                    <img src="<?php echo base_url()?>assets/images/portfolio/item-4.jpg" class="img-responsive" alt="" >
                                     <div class="overlay">
                                         <div class="buttons">
-                                            <a rel="gallery" class="fancybox" href="images/portfolio/item-4.jpg">Demo</a>
+                                            <a rel="gallery" class="fancybox" href="<?php echo base_url()?>assets/images/portfolio/item-4.jpg">Demo</a>
                                             <a target="_blank" href="single-portfolio.html">Details</a>
                                         </div>
                                     </div>
@@ -163,10 +163,10 @@
                         <div class="col-sm-4 col-xs-12">
                             <figure class="wow fadeInLeft animated" data-wow-duration="500ms" data-wow-delay="900ms">
                                 <div class="img-wrapper">
-                                    <img src="images/portfolio/item-5.jpg" class="img-responsive" alt="" >
+                                    <img src="<?php echo base_url()?>assets/images/portfolio/item-5.jpg" class="img-responsive" alt="" >
                                     <div class="overlay">
                                         <div class="buttons">
-                                            <a rel="gallery" class="fancybox" href="images/portfolio/item-5.jpg">Demo</a>
+                                            <a rel="gallery" class="fancybox" href="<?php echo base_url()?>assets/images/portfolio/item-5.jpg">Demo</a>
                                             <a target="_blank" href="single-portfolio.html">Details</a>
                                         </div>
                                     </div>
@@ -186,10 +186,10 @@
                         <div class="col-sm-4 col-xs-12">
                             <figure class="wow fadeInLeft animated" data-wow-duration="500ms" data-wow-delay="1200ms">
                                 <div class="img-wrapper">
-                                    <img src="images/portfolio/item-6.jpg" class="img-responsive" alt="" >
+                                    <img src="<?php echo base_url()?>assets/images/portfolio/item-6.jpg" class="img-responsive" alt="" >
                                     <div class="overlay">
                                         <div class="buttons">
-                                            <a rel="gallery" class="fancybox" href="images/portfolio/item-6.jpg">Demo</a>
+                                            <a rel="gallery" class="fancybox" href="<?php echo base_url()?>assets/images/portfolio/item-6.jpg">Demo</a>
                                             <a target="_blank" href="single-portfolio.html">Details</a>
                                         </div>
                                     </div>
