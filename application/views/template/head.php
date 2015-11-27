@@ -1,3 +1,5 @@
+<!DOCTYPE html>
+<html class="no-js">
 <head>
     <!-- Basic Page Needs
     ================================================== -->
@@ -51,3 +53,4 @@
     <!-- template main js -->
     <script src="<?php echo base_url();?>assets/js/main.js"></script>
 </head>
+<body>

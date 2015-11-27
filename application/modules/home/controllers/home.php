@@ -5,8 +5,9 @@ class Home extends CI_Controller {
 		parent::__construct();
 	}
 	public function index(){
-		//$this->ci->load->view('template/head');
-		//$this->ci->load->view('template/header');
+		$this->load->view('template/head');
+		$this->load->view('template/header');
+		$this->load->view('template/footer');
 		$this->load->view('home');
 	}
 
