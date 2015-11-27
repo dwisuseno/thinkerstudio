@@ -1,14 +1,8 @@
-<!doctype html>
-<html>
-<head>
-	<?php $this->load->view("template/head.php");?>
-</head>
+<!DOCTYPE html>
+<html class="no-js">
+	<?php include("template/head.php");?>
 <body>
 	<?php $this->load->view("template/header.php");?>
-		<div>
-			<input>
-			<input>
-			<button>Login</button>
-		</div>
+		
 </body>
 </html>
