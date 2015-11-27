@@ -25,7 +25,7 @@
                             <li>
                                 <a href="<?php echo base_url()?>" >Home</a>
                             </li>
-                            <li><a href="<?php echo base_url()?>about">About</a></li>
+                            <li><a href="<?php echo base_url()?>home/about">About</a></li>
                             <li><a href="<?php echo base_url()?>service">Service</a></li>
                             <!--
                             <li class="dropdown">
@@ -51,7 +51,7 @@
                                 </div>
                             </li>
                             -->
-                            <li><a href="<?php echo base_url()?>">Contact</a></li>
+                            <li><a href="<?php echo base_url()?>home/contact">Contact</a></li>
                         </ul>
                     </div>
                 </nav>

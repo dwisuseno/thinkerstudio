@@ -17,7 +17,7 @@
                                 </section> <!-- cd-intro -->
                                 <!-- /.slider -->
                                 <h2 class="wow fadeInUp animated" data-wow-delay=".6s" >
-                                    Dengan developer yang berpengalaman. Kami menawarkan Desain Web, Desain Foto WPAP, Desain Mobile-Apps, dll. 
+                                    Dengan developer yang berpengalaman. Kami menawarkan Desain Web, Desain Grafis, Desain Mobile-Apps, dll. 
                                 </h2>
                                 <a class="btn-lines dark light wow fadeInUp animated smooth-scroll btn btn-default btn-green" data-wow-delay=".9s" href="#works" data-section="#works" >Lihat Contoh Pekerjaan</a>
                                 
@@ -313,9 +313,9 @@
                     <div class="row">
                         <div class="col-md-12">
                             <div class="block">
-                                <h2 class="title wow fadeInDown" data-wow-delay=".3s" data-wow-duration="500ms">SO WHAT YOU THINK ?</h1>
-                                <p class="wow fadeInDown" data-wow-delay=".5s" data-wow-duration="500ms">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nobis,<br>possimus commodi, fugiat magnam temporibus vero magni recusandae? Dolore, maxime praesentium.</p>
-                                <a href="contact.html" class="btn btn-default btn-contact wow fadeInDown" data-wow-delay=".7s" data-wow-duration="500ms">Contact With Me</a>
+                                <h2 class="title wow fadeInDown" data-wow-delay=".3s" data-wow-duration="500ms">Tertarik dengan Penawaran Kami?</h1>
+                                <p class="wow fadeInDown" data-wow-delay=".5s" data-wow-duration="500ms">Hubungi kami melalui telefon, email, media sosial, atau datang langsung ke tempat kami.</p>
+                                <a href="contact.html" class="btn btn-default btn-contact wow fadeInDown" data-wow-delay=".7s" data-wow-duration="500ms">Mari bicara</a>
                             </div>
                         </div>
                         
