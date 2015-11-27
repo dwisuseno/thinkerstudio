@@ -7,8 +7,14 @@ class Home extends CI_Controller {
 	public function index(){
 		$this->load->view('template/head');
 		$this->load->view('template/header');
-		$this->load->view('template/footer');
+		
 		$this->load->view('home');
+	}
+
+	public function error(){
+		$this->load->view('template/head');
+		$this->load->view('template/header');
+		$this->load->view('error');
 	}
 
 	

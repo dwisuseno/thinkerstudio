@@ -12,8 +12,8 @@
                     
                     <!-- logo -->
                     <div class="navbar-brand">
-                        <a href="index.html" >
-                            <img style="height:50px" src="<?php echo base_url()?>assets/images/logo.png" alt="">
+                        <a href="<?php echo base_url()?>" >
+                            <img style="height:40px" src="<?php echo base_url()?>assets/images/logo.png" alt="">
                         </a>
                     </div>
                     <!-- /logo -->
@@ -23,10 +23,11 @@
                     <div class="main-menu">
                         <ul class="nav navbar-nav navbar-right">
                             <li>
-                                <a href="index.html" >Home</a>
+                                <a href="<?php echo base_url()?>" >Home</a>
                             </li>
-                            <li><a href="about.html">About</a></li>
-                            <li><a href="service.html">Service</a></li>
+                            <li><a href="<?php echo base_url()?>about">About</a></li>
+                            <li><a href="<?php echo base_url()?>service">Service</a></li>
+                            <!--
                             <li class="dropdown">
                                 <a href="#" class="dropdown-toggle" data-toggle="dropdown">Pages <span class="caret"></span></a>
                                 <div class="dropdown-menu">
@@ -36,6 +37,9 @@
                                     </ul>
                                 </div>
                             </li>
+                            -->
+                            <li><a href="<?php echo base_url()?>">Blog</a></li>
+                            <!--
                             <li class="dropdown">
                                 <a href="#" class="dropdown-toggle" data-toggle="dropdown">Blog <span class="caret"></span></a>
                                 <div class="dropdown-menu">
@@ -46,7 +50,8 @@
                                     </ul>
                                 </div>
                             </li>
-                            <li><a href="contact.html">Contact</a></li>
+                            -->
+                            <li><a href="<?php echo base_url()?>">Contact</a></li>
                         </ul>
                     </div>
                 </nav>
