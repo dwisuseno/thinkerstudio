@@ -33,10 +33,9 @@
                 <div class="row">
                     <div class="col-md-6">
                         <div class="block">
-                            <h2 class="subtitle wow fadeInDown" data-wow-duration="500ms" data-wow-delay=".3s">Contact With Me</h2>
+                            <h2 class="subtitle wow fadeInDown" data-wow-duration="500ms" data-wow-delay=".3s">Contact With Us</h2>
                             <p class="subtitle-des wow fadeInDown" data-wow-duration="500ms" data-wow-delay=".5s">
-                                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolore, ea!
-                                 consectetur adipisicing elit. Dolore, ea!
+                                Jangan ragu untuk kontak dengan kami.
                             </p>
                             <div class="contact-form">
                                 <form id="contact-form" method="post" action="sendmail.php" role="form">
@@ -70,7 +69,7 @@
                          <div class="map-area">
                             <h2 class="subtitle  wow fadeInDown" data-wow-duration="500ms" data-wow-delay=".3s">Find Us</h2>
                             <p class="subtitle-des wow fadeInDown" data-wow-duration="500ms" data-wow-delay=".5s">
-                                Si aute quis eu proident o cupidatat ne anim nescius, et est praesentibus, o quorum vidisse expetendis, nostrud eram quibusdam ad nam nostrud ubi.
+                                
                                 
                             </p>
                             <div class="map">
@@ -81,28 +80,22 @@
                     </div>
                 </div>
                 <div class="row address-details">
-                    <div class="col-md-3">
+                    <div class="col-md-4">
                         <div class="address wow fadeInLeft" data-wow-duration="500ms" data-wow-delay=".3s">
                             <i class="ion-ios-location-outline"></i>
-                            <h5>125 , Kings Street,Melbourne <br>United Kingdom,600562</h5>
+                            <h5>Sukolilo Sejahtera II/49,Surabaya <br>Indonesia,60111</h5>
                         </div>
                     </div>
-                    <div class="col-md-3">
-                        <div class="address wow fadeInLeft" data-wow-duration="500ms" data-wow-delay=".5s">
-                            <i class="ion-ios-location-outline"></i>
-                            <h5>125 , Kings Street,Melbourne <br>United Kingdom,600562</h5>
-                        </div>
-                    </div>
-                    <div class="col-md-3">
+                    <div class="col-md-4">
                         <div class="email wow fadeInLeft" data-wow-duration="500ms" data-wow-delay=".7s">
                             <i class="ion-ios-email-outline"></i>
-                            <p>support@themefisher.com<br>support@themefisher.com</p>
+                            <p>thinker.stu@gmail.com<br>alajiseno@gmail.com</p>
                         </div>
                     </div>
-                    <div class="col-md-3">
+                    <div class="col-md-4">
                         <div class="phone wow fadeInLeft" data-wow-duration="500ms" data-wow-delay=".9s">
                             <i class="ion-ios-telephone-outline"></i>
-                            <p>+07 052 245 022<br>+07 999 999 999</p>
+                            <p>+62 85707788875</p>
                         </div>
                     </div>
                 </div>
@@ -134,45 +127,4 @@
         </section>
 
 
-        <!-- 
-        ================================================== 
-            Footer Section Start
-        ================================================== -->
-        <footer id="footer">
-            <div class="container">
-                <div class="col-md-8">
-                    <p class="copyright">Copyright: <span>2015</span> . Design and Developed by <a href="http://www.Themefisher.com">Themefisher</a></p>
-                </div>
-                <div class="col-md-4">
-                    <!-- Social Media -->
-                    <ul class="social">
-                        <li>
-                            <a href="#" class="Facebook">
-                                <i class="ion-social-facebook"></i>
-                            </a>
-                        </li>
-                        <li>
-                            <a href="#" class="Twitter">
-                                <i class="ion-social-twitter"></i>
-                            </a>
-                        </li>
-                        <li>
-                            <a href="#" class="Linkedin">
-                                <i class="ion-social-linkedin"></i>
-                            </a>
-                        </li>
-                        <li>
-                            <a href="#" class="Google Plus">
-                                <i class="ion-social-googleplus"></i>
-                            </a>
-                        </li>
-                        
-                    </ul>
-                </div>
-            </div>
-        </footer> <!-- /#footer -->
-    
-    </body>
-</html>
-
-
+       <?php $this->load->view('template/footer'); ?>
