@@ -13,7 +13,7 @@
                     <!-- logo -->
                     <div class="navbar-brand">
                         <a href="<?php echo base_url()?>" >
-                            <img style="height:40px" src="<?php echo base_url()?>assets/images/logo.png" alt="">
+                            <img src="<?php echo base_url()?>assets/images/logo.png" alt="">
                         </a>
                     </div>
                     <!-- /logo -->
