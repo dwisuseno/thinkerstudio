@@ -11,21 +11,21 @@ class Home extends CI_Controller {
 		$this->load->view('home');
 	}
 
-	public function error(){
-		$this->load->view('template/head');
-		$this->load->view('template/header');
-		$this->load->view('error');
-	}
+	// public function error(){
+	// 	$this->load->view('template/head');
+	// 	$this->load->view('template/header');
+	// 	$this->load->view('error');
+	// }
 
-	public function about(){
-		$this->load->view('template/head');
-		$this->load->view('template/header');
-		$this->load->view('about');
-	}
+	// public function about(){
+	// 	$this->load->view('template/head');
+	// 	$this->load->view('template/header');
+	// 	$this->load->view('about');
+	// }
 	
-	public function contact(){
-		$this->load->view('template/head');
-		$this->load->view('template/header');
-		$this->load->view('contact');
-	}
+	// public function contact(){
+	// 	$this->load->view('template/head');
+	// 	$this->load->view('template/header');
+	// 	$this->load->view('contact');
+	// }
 }
