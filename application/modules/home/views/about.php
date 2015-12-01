@@ -97,7 +97,7 @@
                     <div class="col-md-4">
                         <div class="team-member wow fadeInLeft" data-wow-duration="500ms" data-wow-delay=".3s">
                             <div class="team-img">
-                                <img src="images/team/team-1.jpg" class="team-pic" alt="">
+                                <img src="<?php echo base_url()?>assets/images/team/alaji.jpg" class="team-pic" alt="">
                             </div>
                             <h3 class="team_name">Dwi Al Aji Suseno</h3>
                             <p class="team_designation">CEO, Project Manager</p>
@@ -113,7 +113,7 @@
                     <div class="col-md-4">
                         <div class="team-member wow fadeInLeft" data-wow-duration="500ms" data-wow-delay=".7s">
                             <div class="team-img">
-                                <img src="images/team/team-3.jpg" class="team-pic" alt="">
+                                <img src="<?php echo base_url()?>assets/images/team/rizkifika.jpg" class="team-pic" alt="">
                             </div>
                             <h3 class="team_name">Rizkifika Asanul In'am</h3>
                             <p class="team_designation">CTO, Programmer</p>
@@ -129,7 +129,7 @@
                     <div class="col-md-4">
                         <div class="team-member wow fadeInLeft" data-wow-duration="500ms" data-wow-delay=".5s">
                             <div class="team-img">
-                                <img src="images/team/team-2.jpg" class="team-pic" alt="">
+                                <img src="<?php echo base_url()?>assets/images/team/alief.jpg" class="team-pic" alt="">
                             </div>
                             <h3 class="team_name">Alief Yoga Priyanto</h3>
                             <p class="team_designation">COO, Designer</p>
@@ -145,7 +145,7 @@
                     <div class="col-md-4">
                         <div class="team-member wow fadeInLeft" data-wow-duration="500ms" data-wow-delay=".3s">
                             <div class="team-img">
-                                <img src="images/team/team-1.jpg" class="team-pic" alt="">
+                                <img src="<?php echo base_url()?>assets/images/team/reva.jpg" class="team-pic" alt="">
                             </div>
                             <h3 class="team_name">Erlangga Krisnamukti</h3>
                             <p class="team_designation">CMO, Programmer</p>
@@ -161,7 +161,7 @@
                     <div class="col-md-4">
                         <div class="team-member wow fadeInLeft" data-wow-duration="500ms" data-wow-delay=".5s">
                             <div class="team-img">
-                                <img src="images/team/team-2.jpg" class="team-pic" alt="">
+                                <img src="<?php echo base_url()?>assets/images/team/reva.jpg" class="team-pic" alt="">
                             </div>
                             <h3 class="team_name">Yunan Helmi Mahendra</h3>
                             <p class="team_designation">Administration Manager, Analyst</p>
@@ -177,7 +177,7 @@
                     <div class="col-md-4">
                         <div class="team-member wow fadeInLeft" data-wow-duration="500ms" data-wow-delay=".7s">
                             <div class="team-img">
-                                <img src="images/team/team-3.jpg" class="team-pic" alt="">
+                                <img src="<?php echo base_url()?>assets/images/team/reva.jpg" class="team-pic" alt="">
                             </div>
                             <h3 class="team_name">Reva Yoga Pradana</h3>
                             <p class="team_designation">HRD, Programmer</p>
@@ -258,43 +258,4 @@
                 </div>
             </div>
         </section>
-        <!--
-        ==================================================
-        Footer Section Start
-        ================================================== -->
-        <footer id="footer">
-            <div class="container">
-                <div class="col-md-8">
-                    <p class="copyright">Copyright: <span>2015</span> . Design and Developed by <a href="http://www.Themefisher.com">Themefisher</a></p>
-                </div>
-                <div class="col-md-4">
-                    <!-- Social Media -->
-                    <ul class="social">
-                        <li>
-                            <a href="#" class="Facebook">
-                                <i class="ion-social-facebook"></i>
-                            </a>
-                        </li>
-                        <li>
-                            <a href="#" class="Twitter">
-                                <i class="ion-social-twitter"></i>
-                            </a>
-                        </li>
-                        <li>
-                            <a href="#" class="Linkedin">
-                                <i class="ion-social-linkedin"></i>
-                            </a>
-                        </li>
-                        <li>
-                            <a href="#" class="Google Plus">
-                                <i class="ion-social-googleplus"></i>
-                            </a>
-                        </li>
-                        
-                    </ul>
-                </div>
-            </div>
-        </footer> <!-- /#footer -->
-        
-    </body>
-</html>
+<?php $this->load->view('template/footer'); ?>

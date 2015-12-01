@@ -39,10 +39,10 @@
                                 ABOUT US
                                 </h2>
                                 <p>
-                                    Hello, I’m a UI/UX Designer & Front End Developer from Victoria, Australia. I hold a master degree of Web Design from the World University.And scrambled it to make a type specimen book. It has survived not only five centuries
+                                    
                                 </p>
                                 <p>
-                                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Error, adipisci voluptatum repudiandae, natus impedit repellat aut officia illum at assumenda iusto reiciendis placeat. Temporibus, vero.
+                                    
                                 </p>
                             </div>
                             
@@ -64,7 +64,7 @@
                     <div class="section-heading">
                         <h1 class="title wow fadeInDown" data-wow-delay=".3s">Latest Works</h1>
                         <p class="wow fadeInDown" data-wow-delay=".5s">
-                            Aliquam lobortis. Maecenas vestibulum mollis diam. Pellentesque auctor neque nec urna. Nulla sit amet est. Aenean posuere <br> tortor sed cursus feugiat, nunc augue blandit nunc, eu sollicitudin urna dolor sagittis lacus.
+                            Saat ini kami melayani servis by Project. Tapi kami juga sedang mengembangkan beberapa aplikasi.
                         </p>
                     </div>
                     <div class="row">
@@ -216,25 +216,12 @@
             <section id="feature">
                 <div class="container">
                     <div class="section-heading">
-                        <h1 class="title wow fadeInDown" data-wow-delay=".3s">Offer From Me</h1>
+                        <h1 class="title wow fadeInDown" data-wow-delay=".3s">Offer From Us</h1>
                         <p class="wow fadeInDown" data-wow-delay=".5s">
-                            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sed,<br> quasi dolores numquam dolor vero ex, tempora commodi repellendus quod laborum.
+                            Dalam pengembangan atau pembuatan aplikasi kami sangat<br> mengutamakan kepuasan pelanggan. Selain itu, kami juga menawarkan:
                         </p>
                     </div>
                     <div class="row">
-                        <div class="col-md-4 col-lg-4 col-xs-12">
-                            <div class="media wow fadeInUp animated" data-wow-duration="500ms" data-wow-delay="300ms">
-                                <div class="media-left">
-                                    <div class="icon">
-                                        <i class="ion-ios-flask-outline"></i>
-                                    </div>
-                                </div>
-                                <div class="media-body">
-                                    <h4 class="media-heading">Media heading</h4>
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, sint.</p>
-                                </div>
-                            </div>
-                        </div>
                         <div class="col-md-4 col-lg-4 col-xs-12">
                             <div class="media wow fadeInDown animated" data-wow-duration="500ms" data-wow-delay="600ms">
                                 <div class="media-left">
@@ -244,33 +231,7 @@
                                 </div>
                                 <div class="media-body">
                                     <h4 class="media-heading">Well documented.</h4>
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, sint.</p>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-md-4 col-lg-4 col-xs-12">
-                            <div class="media wow fadeInDown animated" data-wow-duration="500ms" data-wow-delay="900ms">
-                                <div class="media-left">
-                                    <div class="icon">
-                                        <i class="ion-ios-lightbulb-outline"></i>
-                                    </div>
-                                </div>
-                                <div class="media-body">
-                                    <h4 class="media-heading">Well documented.</h4>
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, sint.</p>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-md-4 col-lg-4 col-xs-12">
-                            <div class="media wow fadeInDown animated" data-wow-duration="500ms" data-wow-delay="1200ms">
-                                <div class="media-left">
-                                    <div class="icon">
-                                        <i class="ion-ios-americanfootball-outline"></i>
-                                    </div>
-                                </div>
-                                <div class="media-body">
-                                    <h4 class="media-heading">Free updates</h4>
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, sint.</p>
+                                    <p>Kami adalah developer berpengalaman dalam dokumentasi aplikasi. Manual Operation, Manual Installation, SKPL, DPPL, dll.</p>
                                 </div>
                             </div>
                         </div>
@@ -282,8 +243,8 @@
                                     </div>
                                 </div>
                                 <div class="media-body">
-                                    <h4 class="media-heading">Solid Support</h4>
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, sint.</p>
+                                    <h4 class="media-heading">Proffesional team</h4>
+                                    <p>Kami bekerja secara proffesional sesuai MoU yang telah ditetapkan di awal.</p>
                                 </div>
                             </div>
                         </div>
@@ -295,8 +256,8 @@
                                     </div>
                                 </div>
                                 <div class="media-body">
-                                    <h4 class="media-heading">Simple Installation</h4>
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, sint.</p>
+                                    <h4 class="media-heading">Simple Design</h4>
+                                    <p>Kami menawarkan desain yang terkini dan sesuai filosofi yang anda inginkan</p>
                                 </div>
                             </div>
                         </div>
