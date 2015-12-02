@@ -25,7 +25,7 @@
                             <li><a href="<?php echo base_url()?>" >Home</a></li>
                             <li><a href="<?php echo base_url()?>about">About</a></li>
                             <li><a href="<?php echo base_url()?>service">Service</a></li>
-                            <li><a href="<?php echo base_url()?>project">Projects</a></li>
+                            <li><a href="<?php echo base_url()?>portofolio">Projects</a></li>
                             <!--
                             <li class="dropdown">
                                 <a href="#" class="dropdown-toggle" data-toggle="dropdown">Pages <span class="caret"></span></a>
