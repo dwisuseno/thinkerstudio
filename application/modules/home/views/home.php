@@ -39,10 +39,13 @@
                                 ABOUT US
                                 </h2>
                                 <p>
-                                    
+                                    Thinker Studio adalah sebuah perusahaan startup  company di bidang jasa web design, pemrograman website, desain grafis, hingga pemrograman aplikasi mobile.
                                 </p>
                                 <p>
-                                    
+                                    Basis operasional Thinker berada di Kota Surabaya dengan cakupan produk dan layanan berskala nasional dan internasional. Thinker melayani pelanggan tidak hanya di Surabaya, melainkan di seluruh Indonesia, bahkan luar negeri.
+                                </p>
+                                <p>
+                                    Thinker berkomitmen terhadap kualitas, nilai produk,  serta layanan.
                                 </p>
                             </div>
                             
