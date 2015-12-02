@@ -22,11 +22,10 @@
                 <nav class="collapse navbar-collapse navbar-right" role="navigation">
                     <div class="main-menu">
                         <ul class="nav navbar-nav navbar-right">
-                            <li>
-                                <a href="<?php echo base_url()?>" >Home</a>
-                            </li>
+                            <li><a href="<?php echo base_url()?>" >Home</a></li>
                             <li><a href="<?php echo base_url()?>about">About</a></li>
                             <li><a href="<?php echo base_url()?>service">Service</a></li>
+                            <li><a href="<?php echo base_url()?>project">Projects</a></li>
                             <!--
                             <li class="dropdown">
                                 <a href="#" class="dropdown-toggle" data-toggle="dropdown">Pages <span class="caret"></span></a>

@@ -8,7 +8,7 @@ class Home extends CI_Controller {
 		$this->load->view('template/head');
 		$this->load->view('template/header');
 		
-		$this->load->view('Home');
+		$this->load->view('home');
 	}
 
 	// public function error(){
