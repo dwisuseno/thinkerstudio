@@ -89,7 +89,7 @@
                                     <div class="overlay">
                                         <div class="buttons">
                                             <a rel="gallery" class="fancybox" href="<?php echo base_url()?>images/portfolio/item-3.jpg">Demo</a>
-                                            <a target="_blank" href="<?php echo base_url()?>single-portfolio.html">Details</a>
+                                            <a target="_blank" href="<?php echo base_url()?>">Details</a>
                                         </div>
                                     </div>
                                 </div>
@@ -120,7 +120,7 @@
                         <div class="block">
                             <h2 class="title wow fadeInDown" data-wow-delay=".3s" data-wow-duration="500ms">Tertarik dengan Penawaran Kami?</h1>
                             <p class="wow fadeInDown" data-wow-delay=".5s" data-wow-duration="500ms">Hubungi kami melalui telefon, email, media sosial, atau datang langsung ke tempat kami.</p>
-                            <a href="<?php echo base_url()?><?php echo base_url()?>home/contact" class="btn btn-default btn-contact wow fadeInDown" data-wow-delay=".7s" data-wow-duration="500ms">Mari bicara</a>
+                            <a href="<?php echo base_url()?>contact" class="btn btn-default btn-contact wow fadeInDown" data-wow-delay=".7s" data-wow-duration="500ms">Mari bicara</a>
                         </div>
                     </div>
                     
